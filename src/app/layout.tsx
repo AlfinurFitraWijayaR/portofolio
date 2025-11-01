@@ -5,9 +5,9 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Your Name - Portfolio",
+  title: "myPortofolio",
   description:
-    "Personal portfolio of Your Name, a Software and Machine Learning Engineer",
+    "Personal portfolio Alfinur Fitra Wijaya.R, a Software and Machine Learning Engineer",
 };
 
 export default function RootLayout({
